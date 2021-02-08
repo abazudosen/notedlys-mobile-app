@@ -3,5 +3,5 @@
 When developing locally, you can start the app by running:
 
 ```
-npm start
+expo start
 ```
